@@ -1,0 +1,7 @@
+# Local Python environment for the SAS bridge
+.venv/
+__pycache__/
+*.pyc
+
+# Transient upload scratch files written by server.py
+.atlas-upload-*
